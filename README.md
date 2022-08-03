@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lewis</h1>
 <h3 align="center">A passionate frontend developer from USA</h3>
 
-- 🔭 I’m currently working on Front-End **Chivo**
+- 🔭 I’m currently working for JP Morgan and Chase
 
 - 🌱 I’m currently learning **python, vue**
 
